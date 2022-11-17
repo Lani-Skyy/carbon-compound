@@ -1,1 +1,1 @@
-![Alt text](./Carbon Compounds.drawio.svg)
+![carbon compounds](./Carbon Compounds.drawio.svg)
