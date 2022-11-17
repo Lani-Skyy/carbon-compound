@@ -1,3 +1,3 @@
 # carbon-compound
 carbon compounds form 5 spm
-![Alt text](./Carbon Compounds.drawio.svg)
+![Alt text](https://github.com/Lani-Skyy/carbon-compound/blob/main/Carbon%20Compounds.drawio.svg)
